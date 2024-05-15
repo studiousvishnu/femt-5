@@ -9,7 +9,7 @@ const App = () => {
             <div className="img-container text-center py-2 ratio ratio-16x9   ">
               <img
                 className="rounded-4"
-                src="./src/Components/illustration-article.svg"
+                src="./illustration-article.svg"
                 alt=""
               />
             </div>
@@ -30,7 +30,7 @@ const App = () => {
               <div className="author-img-container me-2">
                 <img
                   className="rounded-circle "
-                  src="./src/Components/image-avatar.webp"
+                  src="./image-avatar.webp"
                   alt=""
                   style={{  width:"50px" }}
                 />
